@@ -1,0 +1,15 @@
+{
+  "name": "Geilo",
+  "url": {
+    "host": "https://www.skigeilo.no",
+    "pathname": "/en/webcam-and-weather"
+  },
+  "tags": [
+    "Norway",
+    "Scandinavia"
+  ],
+  "ll": [
+    8.2049,
+    60.5298
+  ]
+}
