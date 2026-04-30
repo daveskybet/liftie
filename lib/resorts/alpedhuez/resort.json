@@ -1,0 +1,25 @@
+{
+  "name": "Alpe d'Huez",
+  "url": {
+    "host": "https://www.alpedhuez.com",
+    "pathname": ""
+  },
+  "dataUrl": {
+    "host": "https://bulletin.lumiplan.pro",
+    "pathname": "/bulletin.php",
+    "query": {
+      "station": "alpe-d-huez-gd-oz",
+      "region": "alpes",
+      "pays": "france",
+      "lang": "en"
+    }
+  },
+  "tags": [
+    "France",
+    "Alps"
+  ],
+  "ll": [
+    6.0668,
+    45.0917
+  ]
+}
