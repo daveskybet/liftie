@@ -1,0 +1,33 @@
+{
+  "name": "Åre",
+  "url": {
+    "host": "https://www.skistar.com",
+    "pathname": "/en/ski-destinations/are/winter-in-are/weather-and-slopes"
+  },
+  "dataUrls": [
+    {
+      "host": "https://www.skistar.com",
+      "pathname": "/en/ski-destinations/are/winter-in-are/weather-and-slopes/are-by/SimpleView/"
+    },
+    {
+      "host": "https://www.skistar.com",
+      "pathname": "/en/ski-destinations/are/winter-in-are/weather-and-slopes/are-hogzon/SimpleView/"
+    },
+    {
+      "host": "https://www.skistar.com",
+      "pathname": "/en/ski-destinations/are/winter-in-are/weather-and-slopes/are-bjornen/SimpleView/"
+    },
+    {
+      "host": "https://www.skistar.com",
+      "pathname": "/en/ski-destinations/are/winter-in-are/weather-and-slopes/duved/SimpleView/"
+    }
+  ],
+  "tags": [
+    "Sweden",
+    "Scandinavia"
+  ],
+  "ll": [
+    13.0812,
+    63.3986
+  ]
+}

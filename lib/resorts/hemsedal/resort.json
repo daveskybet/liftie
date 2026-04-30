@@ -1,0 +1,19 @@
+{
+  "name": "Hemsedal",
+  "url": {
+    "host": "https://www.skistar.com",
+    "pathname": "/en/ski-destinations/hemsedal/winter-in-hemsedal/weather-and-slopes"
+  },
+  "dataUrl": {
+    "host": "https://www.skistar.com",
+    "pathname": "/en/ski-destinations/hemsedal/winter-in-hemsedal/weather-and-slopes"
+  },
+  "tags": [
+    "Norway",
+    "Scandinavia"
+  ],
+  "ll": [
+    8.5519,
+    60.8651
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Trysil",
+  "url": {
+    "host": "https://www.skistar.com",
+    "pathname": "/en/ski-destinations/trysil/winter-in-trysil/weather-and-slopes"
+  },
+  "dataUrls": [
+    {
+      "host": "https://www.skistar.com",
+      "pathname": "/en/ski-destinations/trysil/winter-in-trysil/weather-and-slopes/turistsentret/SimpleView/"
+    },
+    {
+      "host": "https://www.skistar.com",
+      "pathname": "/en/ski-destinations/trysil/winter-in-trysil/weather-and-slopes/skihytta/SimpleView/"
+    },
+    {
+      "host": "https://www.skistar.com",
+      "pathname": "/en/ski-destinations/trysil/winter-in-trysil/weather-and-slopes/hoyfjellssentretfagerasen/SimpleView/"
+    },
+    {
+      "host": "https://www.skistar.com",
+      "pathname": "/en/ski-destinations/trysil/winter-in-trysil/weather-and-slopes/hogegga/SimpleView/"
+    }
+  ],
+  "tags": [
+    "Norway",
+    "Scandinavia"
+  ],
+  "ll": [
+    12.2633,
+    61.3374
+  ]
+}
