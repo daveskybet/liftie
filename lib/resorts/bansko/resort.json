@@ -1,0 +1,14 @@
+{
+  "name": "Bansko",
+  "url": {
+    "host": "https://www.banskoski.com",
+    "pathname": "/en/map"
+  },
+  "tags": [
+    "Bulgaria"
+  ],
+  "ll": [
+    23.4937,
+    41.8378
+  ]
+}
