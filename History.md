@@ -1,4 +1,17 @@
 
+4.3.3 / 2026-04-12
+==================
+
+ * soft dependencies update
+ * add explicit permission for check workflow
+ * fix incomplete regular expression for hostnames
+
+4.3.2 / 2026-03-17
+==================
+
+ * use masonry/grid-lanes layout for main page
+ * soft dependency update
+
 4.3.1 / 2026-02-19
 ==================
 
